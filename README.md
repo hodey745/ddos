@@ -1,5 +1,4 @@
-# ddos
-ddos attacker
+# DDOS
 
 Author : Mr.Zck18
 
